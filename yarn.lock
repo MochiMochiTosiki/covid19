@@ -6856,10 +6856,10 @@ num2fraction@^1.2.2:
   resolved "https://registry.yarnpkg.com/num2fraction/-/num2fraction-1.2.2.tgz#6f682b6a027a4e9ddfa4564cd2589d1d4e669ede"
   integrity sha1-b2gragJ6Tp3fpFZM0lidHU5mnt4=
 
-nuxt-i18n@6.20.3:
-  version "6.20.3"
-  resolved "https://registry.yarnpkg.com/nuxt-i18n/-/nuxt-i18n-6.20.3.tgz#40a902033b8508884c2e1ee87ce8855a68dcc04a"
-  integrity sha512-c+JQzJH5vp5fLwz6BcYFXB6dHxtlmZL10gPZLHo9Z13CU5NB2/U5ewbUfWuxK86Mi+41JW4aGPPaNL4U5LXOfQ==
+nuxt-i18n@6.22.0:
+  version "6.22.0"
+  resolved "https://registry.yarnpkg.com/nuxt-i18n/-/nuxt-i18n-6.22.0.tgz#7f4cfd3536abc2bac3c0dec3dd0daf28c0dbb56c"
+  integrity sha512-snJxnPsRWE4Vc97tfE4w4l7LvAMyfrtfdTVPRglScq+vTLPBHVixVM9SUHsNUOyeTgrq7dIe7bEKyU7KW7miYg==
   dependencies:
     "@babel/parser" "^7.5.5"
     "@babel/traverse" "^7.5.5"
@@ -6869,7 +6869,8 @@ nuxt-i18n@6.20.3:
     is-https "^3.0.0"
     js-cookie "^2.2.1"
     klona "^2.0.4"
-    vue-i18n "^8.18.1"
+    ufo "^0.6.7"
+    vue-i18n "^8.23.0"
 
 nuxt-property-decorator@2.9.1:
   version "2.9.1"
@@ -9901,7 +9902,7 @@ ua-parser-js@^0.7.24:
   resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.25.tgz#67689fa263a87a52dabbc251ede89891f59156ce"
   integrity sha512-8NFExdfI24Ny8R3Vc6+uUytP/I7dpqk3JERlvxPWlrtx5YboqCgxAXYKPAifbPLV2zKbgmmPL53ufW7mUC/VOQ==
 
-ufo@^0.6.10:
+ufo@^0.6.10, ufo@^0.6.7:
   version "0.6.10"
   resolved "https://registry.yarnpkg.com/ufo/-/ufo-0.6.10.tgz#c7ace9b8f72cb08c35e3a8c8edc76f062fbaa7d0"
   integrity sha512-sMbJnrBcKKsbVyr6++hb0n9lCmrMqkJrNnJIOJ3sckeqY6NMfAULcRGbBWcASSnN1HDV3YqiGCPzi9RVs511bw==
@@ -10228,7 +10229,7 @@ vue-hot-reload-api@^2.3.0:
   resolved "https://registry.yarnpkg.com/vue-hot-reload-api/-/vue-hot-reload-api-2.3.4.tgz#532955cc1eb208a3d990b3a9f9a70574657e08f2"
   integrity sha512-BXq3jwIagosjgNVae6tkHzzIk6a8MHFtzAdwhnV5VlvPTFxDCvIttgSiHWjdGoTJvXtmRu5HacExfdarRcFhog==
 
-vue-i18n@^8.18.1:
+vue-i18n@^8.23.0:
   version "8.24.2"
   resolved "https://registry.yarnpkg.com/vue-i18n/-/vue-i18n-8.24.2.tgz#4bfba15a89c0697220b55f787bbcb05a461d5482"
   integrity sha512-+TkAPBQw4Cp2bQrSPtPNkhET7XcWYjjDt1UjWYQs+xbT41q5OAl1I3IZyhg0drjn1nlC1K0f8sLVB/nshUcF1Q==
